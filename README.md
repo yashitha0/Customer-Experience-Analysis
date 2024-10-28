@@ -27,9 +27,5 @@ The project involves a dataset that contains information about the inbound calls
 ![image](https://github.com/user-attachments/assets/d835d78d-d57e-4d0f-a653-0346721f78ea)
 
 ## Insights and Key findings
-
-
-
-
-
+PPT.pdf
 
