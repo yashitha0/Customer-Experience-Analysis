@@ -7,12 +7,11 @@ You have been provided with a dataset that contains information about the inboun
   1) Average Call Duration: Determine the average duration of all incoming calls received by agents. This should be calculated for each time bucket.
      Task: What is the average duration of calls for each time bucket?
 
-  2) Call Volume Analysis: Visualize the total number of calls received. This should be represented as a graph or chart showing the number of calls against time. Time should      be represented in buckets (e.g., 1-2, 2-3, etc.).
+  2) Call Volume Analysis: Visualize the total number of calls received.
      Task: Can you create a chart or graph that shows the number of calls received in each time bucket?
 
   3) Manpower Planning: The current rate of abandoned calls is approximately 30%. Propose a plan for manpower allocation during each time bucket (from 9 am to 9 pm) to     
-     reduce the abandon rate to 10%. In other words, you need to calculate the minimum number of agents required in each time bucket to ensure that at least 90 out of 100 
-     calls are answered.
+     reduce the abandon rate to 10%.
      Task: What is the minimum number of agents required in each time bucket to reduce the abandon rate to 10%?
 
   4) Night Shift Manpower Planning: Customers also call ABC Insurance Company at night but don't get an answer because there are no agents available. This creates a poor 
