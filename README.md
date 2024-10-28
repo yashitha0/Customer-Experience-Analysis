@@ -26,6 +26,17 @@ The project involves a dataset that contains information about the inbound calls
 
 ![image](https://github.com/user-attachments/assets/d835d78d-d57e-4d0f-a653-0346721f78ea)
 
-## Insights and Key findings
-PPT.pdf
-
+## Dataset 
+- Agent_Name
+- Agent_ID
+- Customer_Phone_No
+- Queue_Time(Secs)
+- Date_&_Time
+- Time
+- Time_Bucket
+- Duration(hh:mm:ss)
+- Call_Seconds (s)
+- Call_Status
+- Wrapped _By
+- Ringing
+- IVR _Duration
