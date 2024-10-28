@@ -1,6 +1,6 @@
 # Project Overview
 
-The project involves a dataset that contains information about the inbound calls received by a company named ABC, which operates in the insurance sector. Our task is to use this data to answer the following questions:
+The project involves a dataset that contains information about the inbound calls received by a company named ABC, which operates in the insurance sector. Our task is to analyse this data using excel and answer the following questions:
 
 ## Data Analytics Tasks
 
